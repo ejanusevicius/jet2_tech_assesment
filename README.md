@@ -6,7 +6,7 @@ This repository contains the technical assesment given to Edvinas Janusevicius b
 
 Download this repository to your machine and start "index.html" if it's ran on a live server, or "index_regular_open.html" if the file is ran through basic file browser.
 
-### Prerequisites
+### Project breakdown
 
 Below given are the requirements for the test and how each requirement has been tackled:
 
